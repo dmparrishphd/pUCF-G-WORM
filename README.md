@@ -1,2 +1,1 @@
-# pUCF-G-WORM
-pUCF Project G
+[README](https://github.com/dmparrishphd/pUCF-G-CORW/blob/main/README.md).
